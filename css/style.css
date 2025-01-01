@@ -81,14 +81,15 @@
     position: fixed;
     top: 0px; /* Adjust this value to move the element down */
     right: 0px; /* Adjust this value to move the element left or right */
-    background-color: #240349;
-    padding: 2px;
-    border-radius: 25px;
+    background-color: #cfa121;
+    padding: 0px;
+    border-radius: 18px;
     box-shadow: white;
     z-index: 1000; /* Ensure it's above other elements */
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   color: #e2d3d3;
+   color:red;
   }
+
 
 
 html, body, div, span, object, iframe,
