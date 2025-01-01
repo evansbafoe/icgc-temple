@@ -81,7 +81,7 @@
     position: fixed;
     top: 0px; /* Adjust this value to move the element down */
     right: 0px; /* Adjust this value to move the element left or right */
-    background-color: red;
+    background-color: amber;
     padding: 0px;
     border-radius: 18px;
     box-shadow: white;
