@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Nov 2024 12:22:28 at https://piwcdc.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://piwcdc.org/ -O1 "C:\My Web Sites\tech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/images/LOGO.jpg (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/img/apple-touch-icon.html (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/bootstrap/css/bootstrap.min.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/icofont/icofont.min.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/boxicons/css/boxicons.min.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/animate.css/animate.min.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/owl.carousel/assets/owl.carousel.min.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/vendor/venobox/venobox.css (from https://piwcdc.org/)
+12:22:53	Error: 	"Not Found" (404) at link https://piwcdc.org/assets/css/style.css (from https://piwcdc.org/)
+12:23:39	Error: 	"Not Found" (404) at link https://piwcdc.org/caci-kg bs forum.html (from https://piwcdc.org/)
+12:23:39	Warning: 	Link https://piwcdc.org/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:23:39	Error: 	"Not Found" (404) at link https://piwcdc.org/review.html (from https://piwcdc.org/)
+12:23:39	Error: 	"Not Found" (404) at link https://piwcdc.org/Tenents of COP.html (from https://piwcdc.org/)
+12:23:39	Warning: 	File not parsed, looks like binary: https://piwcdc.org/plugins/revolution/css/openhand.html
+12:23:39	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/tech/piwcdc.org/plugins/revolution/css/openhand.html
+12:23:39	Warning: 	File not parsed, looks like binary: https://piwcdc.org/plugins/revolution/css/closedhand.html
+12:23:39	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/tech/piwcdc.org/plugins/revolution/css/closedhand.html
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/css/owl.video.play.html (from https://piwcdc.org/css/owl.carousel.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon2.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon1.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon3.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon4.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon5.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/15x16_icon6.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/icon_zoomin.png (from https://piwcdc.org/css/style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/fdd.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Men/ptt.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Women/FB_IMG_16968443424631006.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Evangelism/FB_IMG_16960874056484574.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Youth/FB_IMG_16960880536968995.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Teens/FB_IMG_16960873470812145.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/ministries/Children/FB_IMG_16960875370763135.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/tree.jpg (from https://piwcdc.org/general_style.css)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/events/nov4.jpg (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/events/jan_7.html (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/events/jan_8.html (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/events/nov7.jpg (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/events/jan_gos.html (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/events/novsowconf.jpg (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/events/january20/jan_gos.jpg (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/images/190x130_img1.html (from https://piwcdc.org/Events.html)
+12:23:41	Error: 	"Not Found" (404) at link https://piwcdc.org/event2chris.html (from https://piwcdc.org/Events.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 247 links scanned, 209 files written (42395521 bytes overall) [40222681 bytes received at 550995 bytes/sec], 3658257 bytes transferred using HTTP compression in 92 files, ratio 33%, 82.3 requests per connection
+(37 errors, 5 warnings, 0 messages)
