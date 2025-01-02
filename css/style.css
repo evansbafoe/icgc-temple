@@ -81,17 +81,17 @@
     position: fixed;
     top: 0px; /* Adjust this value to move the element down */
     right: 0px; /* Adjust this value to move the element left or right */
-    background-color: #021b02; 
+    background-color: #022902; 
     padding: 1px;
     justify-content: center;
      align-items: center;
-     border: 3px solid #a10b0b; 
+     border: 2.5px solid #a10b0b; 
     box-shadow: white;
     z-index: 1000; /* Ensure it's above other elements */
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color:white;
   }
-  #datetime:hover { background-color: #350672; ; color: white; border: 3px solid #4CAF50; }
+  #datetime:hover { background-color: #350672; ; color: white; border: 2.5px solid #4CAF50; }
 
 
 
