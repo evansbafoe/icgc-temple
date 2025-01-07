@@ -82,7 +82,7 @@
     top: 0px; /* Adjust this value to move the element down */
     right: 0px; /* Adjust this value to move the element left or right */
     background-color:rgb(5, 43, 2); 
-    padding: 2px;
+    padding: 0px;
     border-radius:85px;
     justify-content: center;
      align-items: center;
