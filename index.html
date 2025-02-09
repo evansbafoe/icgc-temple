@@ -1183,8 +1183,18 @@
 		<!-- Jquery Plugins, main Jquery -->	
         <script src="./assets/js/plugins.js"></script>
         <script src="./assets/js/main.js"></script>
-        
-	  
+       <script> 
+	 (function ($)
+  { "use strict"
+  
+/* 1. Proloder */
+    $(window).on('load', function () {
+      $('#preloader-active').delay(50).fadeOut('slow');
+      $('body').delay(150).css({
+        'overflow': 'visible'
+      });
+    });
+   </srcipt>
 </body>
 
 </html>
