@@ -495,9 +495,9 @@ label {
 
 /* 20. preloader */
 .preloader {
-	background-color: #ffffff;
-	width: 100%;
-	height: 100%;
+	background-color: #25740d;
+	width: 50%;
+	height: 50%;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -524,7 +524,7 @@ label {
 	border-radius: 50%;
 	-webkit-box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
 	box-shadow: 0 1px 5px 0 rgba(35, 181, 185, 0.15);
-	background-color: #063b0d;
+	background-color: #ffffff;
 	-webkit-animation: zoom 4000ms infinite ease;
 	animation: zoom 2000ms infinite ease;
 	-webkit-transition: .6s;
@@ -553,7 +553,7 @@ label {
 }
 
 .preloader .preloader-img img {
-	max-width: 50px;
+	max-width: 75px;
 }
 .preloader .pere-text strong{
 	font-weight: 800;
