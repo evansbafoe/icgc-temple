@@ -151,10 +151,9 @@
     right: 0px; /* Adjust this value to move the element left or right */
     background-color:rgb(5, 43, 2); 
    width: 100%;
-    left: 10px;
-        right: 15px;
+    
     box-shadow: white;
-    z-index: 1800; /* Ensure it's above other elements */
+    z-index: 2400; /* Ensure it's above other elements */
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    color:white; text-align: center;
   }
