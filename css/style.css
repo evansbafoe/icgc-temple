@@ -146,15 +146,15 @@
 
 }
   #datetime {
-    position: fixed;
+    position: flex;
     top: 0px; /* Adjust this value to move the element down */
     right: 0px; /* Adjust this value to move the element left or right */
     background-color:rgb(5, 43, 2); 
-   width: 100%;
+   width: 120%;
     
     box-shadow: white;
     z-index: 2400; /* Ensure it's above other elements */
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Franklin Gothic Medium';
    color:white; text-align: center;
   }
   #datetime:hover { background-color: #350672; ; color: white; border: 4px solid #4CAF50; }
